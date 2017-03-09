@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/axon-bank.iml" filepath="$PROJECT_DIR$/axon-bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/axon-bank-core.iml" filepath="$PROJECT_DIR$/core/axon-bank-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-api/axon-bank-core-api.iml" filepath="$PROJECT_DIR$/core-api/axon-bank-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/query/axon-bank-query.iml" filepath="$PROJECT_DIR$/query/axon-bank-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/axon-bank-web.iml" filepath="$PROJECT_DIR$/web/axon-bank-web.iml" />
+    </modules>
+  </component>
+</project>

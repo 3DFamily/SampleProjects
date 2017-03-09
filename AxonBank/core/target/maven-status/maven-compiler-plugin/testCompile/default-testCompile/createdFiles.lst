@@ -1,0 +1,3 @@
+org\axonframework\samples\bank\command\BankAccountCommandHandlerTest.class
+org\axonframework\samples\bank\command\BankTransferManagementSagaTest.class
+org\axonframework\samples\bank\command\BankTransferTest.class

@@ -1,0 +1,7 @@
+org\axonframework\samples\bank\query\banktransfer\BankTransferEntry.class
+org\axonframework\samples\bank\query\bankaccount\BankAccountRepository.class
+org\axonframework\samples\bank\query\bankaccount\BankAccountEntry.class
+org\axonframework\samples\bank\query\banktransfer\BankTransferEntry$Status.class
+org\axonframework\samples\bank\query\banktransfer\BankTransferEventListener.class
+org\axonframework\samples\bank\query\bankaccount\BankAccountEventListener.class
+org\axonframework\samples\bank\query\banktransfer\BankTransferRepository.class

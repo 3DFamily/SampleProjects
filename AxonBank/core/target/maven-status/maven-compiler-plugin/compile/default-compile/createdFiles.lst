@@ -1,0 +1,5 @@
+org\axonframework\samples\bank\command\BankAccount.class
+org\axonframework\samples\bank\command\BankTransfer$Status.class
+org\axonframework\samples\bank\command\BankTransferManagementSaga.class
+org\axonframework\samples\bank\command\BankAccountCommandHandler.class
+org\axonframework\samples\bank\command\BankTransfer.class
